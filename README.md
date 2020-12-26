@@ -2,7 +2,7 @@
 
 ## Purpose of Repository
 
-This repository is a javascript portfolio-project from [Codecademy](www.codecademy.com). It's about **learning javascript syntax** using javascript standard library (vanilla JS), and **getting familiar with GitHub Workflow** and learning **Markdown**.
+This repository is a javascript portfolio-project from [Codecademy](http://codecademy.com). It's about **learning javascript syntax** using javascript standard library (vanilla JS), and **getting familiar with GitHub Workflow** and learning **Markdown**.
 
 ## What is Mixed Messages about?
 
@@ -10,7 +10,7 @@ The Mixed Messages is a **command-line program**, that outputs _a randomly gener
 
 # Prerequisities
 
-You should have [**node.js**](www.nodejs.org) installed on your computer to be able to run javascript-files in your terminal.
+You should have [**node.js**](http:/nodejs.org) installed on your computer to be able to run javascript-files in your terminal.
 
 # Copyright
 
