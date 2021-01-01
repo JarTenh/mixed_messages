@@ -6,12 +6,14 @@ This repository is a javascript portfolio-project from [Codecademy](http://codec
 
 ## What is Mixed Messages about?
 
-The Mixed Messages is a **command-line program**, that outputs _a randomly generated inspirational message_ each time the user runs the **main.js**. There is no input required, just run the main.js in your terminal. The program logs an inspirational message to your console to make up your day! :smiley:
+The Mixed Messages is a **command-line program**, that outputs _a randomly generated 'inspirational' message_ each time the user runs the **main.js**. There is no input required, just run the main.js in your terminal. The program logs an inspirational message to your console to make up your day! :smiley:
 
-# Prerequisities
+There are only few lines to randomly choose from as of writing this text, but who knows, maybe I'll add more for your amusement some day!
+
+## Prerequisities
 
 You should have [**node.js**](http:/nodejs.org) installed on your computer to be able to run javascript-files in your terminal.
 
-# Copyright
+## Copyright
 
 This program was created by JarTenh. However, it's free to use by anyone, so feel free to browse the code. :blush:
